@@ -1,0 +1,5 @@
+The wordcounter reads a file as UTF-8 text and splits it on any run of
+whitespace, so repeated spaces, tabs and blank lines never inflate the total.
+It writes exactly one result line to standard output and keeps every error
+message on standard error, which lets a shell script pipe the count onward and
+still branch on the exit code.
