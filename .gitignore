@@ -1,0 +1,19 @@
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Packaging output
+build/
+dist/
+*.egg-info/
+
+# Local environment files (none are required by this project)
+.env
+
+# OS noise
+.DS_Store

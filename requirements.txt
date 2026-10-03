@@ -1,0 +1,6 @@
+# wordcount runtime dependencies: none.
+# The CLI is standard library only (argparse, os, sys) on Python 3.8+.
+#
+# Development/test dependency (the suite is plain unittest, so pytest is a
+# convenience runner rather than a hard requirement):
+pytest>=8.3,<10
