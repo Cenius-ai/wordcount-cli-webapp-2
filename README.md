@@ -33,7 +33,7 @@ See [`INSTALL.md`](INSTALL.md) for full setup and usage instructions.
 
 ## Architecture
 
-Folder layout: `examples/`. `./install.sh` gets you from a fresh clone to a running instance with sample data in a single step. Built in Full-stack app (22 files). Step-by-step setup guide: [`INSTALL.md`](INSTALL.md).
+Folder layout: `examples/`. `./install.sh` gets you from a fresh clone to a running instance with sample data in a single step. Built in Full-stack app (14 files). Step-by-step setup guide: [`INSTALL.md`](INSTALL.md).
 
 ## Usage guide
 
